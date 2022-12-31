@@ -1,7 +1,5 @@
-# SentenceCreater_prototype
-## random sentence creater's prototype
-
-below is first prototype.  
+# SentenceCreater
+## random sentence creatervcgf
 
 model: w0 は w1 である  
 str created: ネコはねむたいである  
